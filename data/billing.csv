@@ -1,0 +1,183 @@
+date,service,region,usage_type,cost,currency
+2026-08-01,EC2,ap-southeast-1,Compute,1247.68,INR
+2026-08-01,S3,ap-south-1,Storage,346.13,INR
+2026-08-01,RDS,ap-southeast-1,Database,723.34,INR
+2026-08-01,Lambda,ap-southeast-1,Compute,234.27,INR
+2026-08-01,CloudFront,ap-southeast-1,Data Transfer,251.74,INR
+2026-08-01,DynamoDB,us-east-1,Database,240.14,INR
+2026-08-02,EC2,us-east-1,Compute,1207.66,INR
+2026-08-02,S3,us-east-1,Storage,345.53,INR
+2026-08-02,RDS,ap-south-1,Database,893.59,INR
+2026-08-02,Lambda,ap-south-1,Compute,224.62,INR
+2026-08-02,CloudFront,us-east-1,Data Transfer,319.59,INR
+2026-08-02,DynamoDB,ap-southeast-1,Database,219.52,INR
+2026-08-03,EC2,ap-southeast-1,Compute,1340.7,INR
+2026-08-03,S3,ap-southeast-1,Storage,343.68,INR
+2026-08-03,RDS,ap-south-1,Database,798.43,INR
+2026-08-03,Lambda,ap-southeast-1,Compute,205.69,INR
+2026-08-03,CloudFront,us-east-1,Data Transfer,287.4,INR
+2026-08-03,DynamoDB,ap-south-1,Database,288.26,INR
+2026-08-04,EC2,ap-southeast-1,Compute,1142.34,INR
+2026-08-04,S3,ap-southeast-1,Storage,341.83,INR
+2026-08-04,RDS,ap-southeast-1,Database,872.33,INR
+2026-08-04,Lambda,us-east-1,Compute,205.97,INR
+2026-08-04,CloudFront,us-east-1,Data Transfer,271.36,INR
+2026-08-04,DynamoDB,us-east-1,Database,241.82,INR
+2026-08-05,EC2,us-east-1,Compute,1466.72,INR
+2026-08-05,S3,ap-south-1,Storage,383.42,INR
+2026-08-05,RDS,us-east-1,Database,847.26,INR
+2026-08-05,Lambda,ap-southeast-1,Compute,202.74,INR
+2026-08-05,CloudFront,ap-south-1,Data Transfer,313.55,INR
+2026-08-05,DynamoDB,ap-south-1,Database,250.51,INR
+2026-08-06,EC2,us-east-1,Compute,1274.28,INR
+2026-08-06,S3,ap-south-1,Storage,334.93,INR
+2026-08-06,RDS,ap-south-1,Database,821.99,INR
+2026-08-06,Lambda,ap-south-1,Compute,171.79,INR
+2026-08-06,CloudFront,ap-southeast-1,Data Transfer,313.97,INR
+2026-08-06,DynamoDB,ap-southeast-1,Database,267.75,INR
+2026-08-07,EC2,ap-southeast-1,Compute,1119.44,INR
+2026-08-07,S3,ap-south-1,Storage,341.34,INR
+2026-08-07,RDS,ap-southeast-1,Database,703.48,INR
+2026-08-07,Lambda,ap-southeast-1,Compute,217.59,INR
+2026-08-07,CloudFront,us-east-1,Data Transfer,329.09,INR
+2026-08-07,DynamoDB,ap-southeast-1,Database,274.67,INR
+2026-08-08,EC2,ap-southeast-1,Compute,1003.74,INR
+2026-08-08,S3,us-east-1,Storage,379.95,INR
+2026-08-08,RDS,ap-southeast-1,Database,829.94,INR
+2026-08-08,Lambda,ap-southeast-1,Compute,211.78,INR
+2026-08-08,CloudFront,ap-south-1,Data Transfer,285.24,INR
+2026-08-08,DynamoDB,ap-southeast-1,Database,256.66,INR
+2026-08-09,EC2,ap-south-1,Compute,1208.36,INR
+2026-08-09,S3,us-east-1,Storage,341.63,INR
+2026-08-09,RDS,ap-southeast-1,Database,819.05,INR
+2026-08-09,Lambda,ap-southeast-1,Compute,183.55,INR
+2026-08-09,CloudFront,us-east-1,Data Transfer,338.95,INR
+2026-08-09,DynamoDB,us-east-1,Database,266.47,INR
+2026-08-10,EC2,us-east-1,Compute,4800.0,INR
+2026-08-10,S3,us-east-1,Storage,382.43,INR
+2026-08-10,RDS,ap-southeast-1,Database,777.98,INR
+2026-08-10,Lambda,ap-south-1,Compute,212.01,INR
+2026-08-10,CloudFront,ap-south-1,Data Transfer,283.15,INR
+2026-08-10,DynamoDB,ap-southeast-1,Database,243.45,INR
+2026-08-11,EC2,ap-south-1,Compute,1322.28,INR
+2026-08-11,S3,ap-southeast-1,Storage,341.83,INR
+2026-08-11,RDS,ap-south-1,Database,800.33,INR
+2026-08-11,Lambda,us-east-1,Compute,196.25,INR
+2026-08-11,CloudFront,ap-southeast-1,Data Transfer,290.51,INR
+2026-08-11,DynamoDB,ap-southeast-1,Database,244.22,INR
+2026-08-12,EC2,ap-south-1,Compute,1220.63,INR
+2026-08-12,S3,ap-south-1,Storage,293.38,INR
+2026-08-12,RDS,us-east-1,Database,799.01,INR
+2026-08-12,Lambda,ap-southeast-1,Compute,199.56,INR
+2026-08-12,CloudFront,ap-south-1,Data Transfer,253.95,INR
+2026-08-12,DynamoDB,ap-south-1,Database,249.47,INR
+2026-08-13,EC2,ap-south-1,Compute,1157.59,INR
+2026-08-13,S3,ap-south-1,Storage,347.64,INR
+2026-08-13,RDS,us-east-1,Database,763.22,INR
+2026-08-13,Lambda,us-east-1,Compute,193.26,INR
+2026-08-13,CloudFront,ap-southeast-1,Data Transfer,318.42,INR
+2026-08-13,DynamoDB,ap-southeast-1,Database,227.0,INR
+2026-08-14,EC2,ap-south-1,Compute,1269.87,INR
+2026-08-14,S3,us-east-1,Storage,332.67,INR
+2026-08-14,RDS,ap-south-1,Database,837.56,INR
+2026-08-14,Lambda,ap-south-1,Compute,235.05,INR
+2026-08-14,CloudFront,ap-south-1,Data Transfer,276.23,INR
+2026-08-14,DynamoDB,ap-southeast-1,Database,238.67,INR
+2026-08-15,EC2,ap-southeast-1,Compute,1363.83,INR
+2026-08-15,S3,us-east-1,Storage,374.46,INR
+2026-08-15,RDS,ap-southeast-1,Database,700.76,INR
+2026-08-15,Lambda,ap-south-1,Compute,201.1,INR
+2026-08-15,CloudFront,us-east-1,Data Transfer,277.93,INR
+2026-08-15,DynamoDB,ap-south-1,Database,281.0,INR
+2026-08-16,EC2,us-east-1,Compute,1312.24,INR
+2026-08-16,S3,ap-southeast-1,Storage,374.45,INR
+2026-08-16,RDS,ap-southeast-1,Database,919.83,INR
+2026-08-16,Lambda,us-east-1,Compute,206.34,INR
+2026-08-16,CloudFront,ap-south-1,Data Transfer,300.31,INR
+2026-08-16,DynamoDB,us-east-1,Database,257.56,INR
+2026-08-17,EC2,ap-southeast-1,Compute,1296.05,INR
+2026-08-17,S3,ap-south-1,Storage,354.27,INR
+2026-08-17,RDS,ap-southeast-1,Database,3200.0,INR
+2026-08-17,Lambda,us-east-1,Compute,182.96,INR
+2026-08-17,CloudFront,ap-southeast-1,Data Transfer,314.82,INR
+2026-08-17,DynamoDB,ap-south-1,Database,274.34,INR
+2026-08-18,EC2,ap-south-1,Compute,1228.13,INR
+2026-08-18,S3,us-east-1,Storage,330.0,INR
+2026-08-18,RDS,us-east-1,Database,811.19,INR
+2026-08-18,Lambda,ap-southeast-1,Compute,180.53,INR
+2026-08-18,CloudFront,ap-south-1,Data Transfer,271.41,INR
+2026-08-18,DynamoDB,ap-south-1,Database,263.13,INR
+2026-08-19,EC2,ap-southeast-1,Compute,1072.31,INR
+2026-08-19,S3,ap-southeast-1,Storage,349.29,INR
+2026-08-19,RDS,ap-southeast-1,Database,852.61,INR
+2026-08-19,Lambda,ap-southeast-1,Compute,230.35,INR
+2026-08-19,CloudFront,us-east-1,Data Transfer,268.35,INR
+2026-08-19,DynamoDB,us-east-1,Database,264.41,INR
+2026-08-20,EC2,ap-southeast-1,Compute,1198.9,INR
+2026-08-20,S3,ap-southeast-1,Storage,361.57,INR
+2026-08-20,RDS,ap-southeast-1,Database,800.83,INR
+2026-08-20,Lambda,ap-south-1,Compute,223.26,INR
+2026-08-20,CloudFront,ap-southeast-1,Data Transfer,315.02,INR
+2026-08-20,DynamoDB,ap-southeast-1,Database,232.86,INR
+2026-08-21,EC2,us-east-1,Compute,1198.89,INR
+2026-08-21,S3,ap-south-1,Storage,355.34,INR
+2026-08-21,RDS,ap-south-1,Database,820.94,INR
+2026-08-21,Lambda,ap-south-1,Compute,208.11,INR
+2026-08-21,CloudFront,ap-southeast-1,Data Transfer,311.36,INR
+2026-08-21,DynamoDB,ap-south-1,Database,248.54,INR
+2026-08-22,EC2,ap-southeast-1,Compute,1179.12,INR
+2026-08-22,S3,ap-south-1,Storage,336.69,INR
+2026-08-22,RDS,ap-south-1,Database,740.73,INR
+2026-08-22,Lambda,us-east-1,Compute,191.79,INR
+2026-08-22,CloudFront,us-east-1,Data Transfer,304.16,INR
+2026-08-22,DynamoDB,us-east-1,Database,257.71,INR
+2026-08-23,EC2,us-east-1,Compute,1205.59,INR
+2026-08-23,S3,us-east-1,Storage,1800.0,INR
+2026-08-23,RDS,ap-southeast-1,Database,855.84,INR
+2026-08-23,Lambda,us-east-1,Compute,217.06,INR
+2026-08-23,CloudFront,ap-southeast-1,Data Transfer,266.94,INR
+2026-08-23,DynamoDB,us-east-1,Database,231.24,INR
+2026-08-24,EC2,ap-south-1,Compute,1229.23,INR
+2026-08-24,S3,us-east-1,Storage,357.2,INR
+2026-08-24,RDS,ap-southeast-1,Database,764.42,INR
+2026-08-24,Lambda,ap-southeast-1,Compute,197.96,INR
+2026-08-24,CloudFront,ap-southeast-1,Data Transfer,301.64,INR
+2026-08-24,DynamoDB,ap-southeast-1,Database,241.81,INR
+2026-08-25,EC2,ap-southeast-1,Compute,1196.19,INR
+2026-08-25,S3,us-east-1,Storage,335.03,INR
+2026-08-25,RDS,us-east-1,Database,843.92,INR
+2026-08-25,Lambda,ap-south-1,Compute,174.2,INR
+2026-08-25,CloudFront,ap-south-1,Data Transfer,278.57,INR
+2026-08-25,DynamoDB,ap-south-1,Database,243.3,INR
+2026-08-26,EC2,us-east-1,Compute,1316.2,INR
+2026-08-26,S3,ap-southeast-1,Storage,345.77,INR
+2026-08-26,RDS,ap-south-1,Database,751.01,INR
+2026-08-26,Lambda,us-east-1,Compute,206.76,INR
+2026-08-26,CloudFront,ap-south-1,Data Transfer,251.4,INR
+2026-08-26,DynamoDB,ap-southeast-1,Database,253.73,INR
+2026-08-27,EC2,us-east-1,Compute,1352.93,INR
+2026-08-27,S3,ap-south-1,Storage,337.85,INR
+2026-08-27,RDS,ap-south-1,Database,914.0,INR
+2026-08-27,Lambda,us-east-1,Compute,189.16,INR
+2026-08-27,CloudFront,us-east-1,Data Transfer,297.23,INR
+2026-08-27,DynamoDB,us-east-1,Database,1200.0,INR
+2026-08-28,EC2,ap-south-1,Compute,1290.76,INR
+2026-08-28,S3,ap-south-1,Storage,385.46,INR
+2026-08-28,RDS,ap-southeast-1,Database,935.82,INR
+2026-08-28,Lambda,ap-southeast-1,Compute,216.52,INR
+2026-08-28,CloudFront,ap-south-1,Data Transfer,282.46,INR
+2026-08-28,DynamoDB,us-east-1,Database,224.4,INR
+2026-08-29,EC2,us-east-1,Compute,1242.61,INR
+2026-08-29,S3,us-east-1,Storage,371.69,INR
+2026-08-29,RDS,ap-south-1,Database,592.56,INR
+2026-08-29,Lambda,us-east-1,Compute,183.61,INR
+2026-08-29,CloudFront,us-east-1,Data Transfer,252.12,INR
+2026-08-29,DynamoDB,us-east-1,Database,224.0,INR
+2026-08-30,EC2,ap-southeast-1,Compute,1157.76,INR
+2026-08-30,S3,us-east-1,Storage,353.66,INR
+2026-08-30,RDS,ap-south-1,Database,803.74,INR
+2026-08-30,Lambda,ap-south-1,Compute,237.57,INR
+2026-08-30,CloudFront,ap-southeast-1,Data Transfer,323.34,INR
+2026-08-30,DynamoDB,us-east-1,Database,280.89,INR
+
+   
