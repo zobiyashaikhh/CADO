@@ -91,4 +91,4 @@ if __name__ == "__main__":
     cleaned_test = clean_billing_data(test_data)
 
     print("\nAfter cleaning bad data:")
-    print(cleaned_test)p
+    print(cleaned_test)
